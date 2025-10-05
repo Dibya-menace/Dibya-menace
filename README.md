@@ -17,6 +17,6 @@
 ---
 
 ### ✨ Hobbies 
-- 📚 Reading tech blogs  
-- ⚡ Exploring AI + Electronics  
+- Cricket
+- Chess  
 
