@@ -1,22 +1,57 @@
-# 👋 Hi, I'm Dibyajyoti Dutta
+# 👋 Hi, I'm Dibyajyoti Dutta  
 
-- 🔭 I’m currently working on projects in **C++**, **Machine Learning**, and **IoT (ESP32/Arduino)**  
-- 🌱 I’m currently learning **Machine Learning**, **Deep Learning** &  **LLMs**
-- 👯 I’m looking to collaborate on **open-source ML projects & core electronics projects**  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dibyajyotidutta/) | [LeetCode](https://leetcode.com/u/Dibyajyoti547/)  
-- ⚡ Fun fact: I love working on **electronics + coding fusion projects** 🚀  
+💻 Passionate **Web Developer** and **Machine Learning Enthusiast**  
+I love building projects that combine creativity, logic, and technology — from front-end web apps to intelligent ML systems.  
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages**: C++, Python, SQL  
-- **Frameworks**: TensorFlow, PyTorch  
-- **Tools**: Git, GitHub, VS Code, Colab, Arduino IDE, Zeek  
-
+## 🚀 About Me  
+- 🔭 Currently working on projects using **HTML**, **CSS**, **C++**, and **Machine Learning**  
+- 🌱 Learning **JavaScript** and **LLMs (Large Language Models)**  
+- 👯 Looking to collaborate on **open-source web** and **ML projects**  
+- ⚡ Fun fact: I started with ML and C++ — now diving deep into **frontend development** too 🚀  
 
 ---
 
-### ✨ Hobbies 
-- Cricket
-- Chess  
+## 🧠 Tech Stack  
 
+### 💬 Languages  
+- HTML | CSS | JavaScript | C++ | Python | SQL  
+
+### 🧩 Frameworks & Libraries  
+- TensorFlow | PyTorch  
+
+### ⚙️ Tools & Platforms  
+- Git | GitHub | VS Code | Google Colab  
+
+---
+
+## 🌟 Featured Projects  
+
+| Project | Description | Live Demo |
+|----------|-------------|------------|
+| 🛒 **[Amazon Clone](https://github.com/Dibya-menace/Amazon-Clone-)** | Front-end replica of Amazon.com using **HTML & CSS** | [View Live](https://dibya-menace.github.io/Amazon-Clone-/) 
+| 🤖 **Signature-Based IDS (Zeek)** | A Machine Learning-based intrusion detection project analyzing network traffic | — |
+
+---
+
+## 🧩 Currently Learning  
+- JavaScript (DOM Manipulation, Events, Fetch API)  
+- Deep Learning Architectures  
+- Prompt Engineering & LLM Integration  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dibyajyotidutta/)  
+- 💻 [LeetCode](https://leetcode.com/u/Dibyajyoti547/)  
+
+---
+
+## ✨ Hobbies  
+- 🏏 Cricket  
+- ♟️ Chess  
+
+---
+
+⭐ *“Code, Learn, Build — Repeat.”*  
