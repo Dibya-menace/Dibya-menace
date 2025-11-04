@@ -26,15 +26,6 @@ I love building projects that combine creativity, logic, and technology — from
 
 ---
 
-## 🌟 Featured Projects  
-
-| Project | Description | Live Demo |
-|----------|-------------|------------|
-| 🛒 **[Amazon Clone](https://github.com/Dibya-menace/Amazon-Clone-)** | Front-end replica of Amazon.com using **HTML & CSS** | [View Live](https://dibya-menace.github.io/Amazon-Clone-/) 
-| 🤖 **Signature-Based IDS (Zeek)** | A Machine Learning-based intrusion detection project analyzing network traffic | — |
-
----
-
 ## 🧩 Currently Learning  
 - JavaScript (DOM Manipulation, Events, Fetch API)  
 - Deep Learning Architectures  
