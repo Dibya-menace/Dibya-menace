@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dibyajyoti Dutta  
 
-💻 Passionate **Web Developer** and **Machine Learning Enthusiast**  
+💻 Passionate **Machine Learning Enthusiast** and  **Web Developer**
 I love building projects that combine creativity, logic, and technology — from front-end web apps to intelligent ML systems.  
 
 ---
